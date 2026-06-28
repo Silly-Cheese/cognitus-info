@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cognitus Solutions Information Database</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <nav class="nav">
+      <a class="brand" href="#top">
+        <span class="brand-mark">CS</span>
+        <span><strong>Cognitus Solutions</strong><small>Information Database</small></span>
+      </a>
+      <div class="nav-links">
+        <a href="#systems">Systems</a>
+        <a href="#guide">Guide</a>
+      </div>
+    </nav>
+
+    <section id="top" class="hero">
+      <div>
+        <p class="eyebrow">Official Staff Access Hub</p>
+        <h1>All Cognitus systems in one organized place.</h1>
+        <p>This database gives staff quick access to current Cognitus Solutions portals. More links can be added as the organization expands.</p>
+        <a class="button" href="#systems">View Systems</a>
+      </div>
+      <aside class="stats">
+        <div><strong id="systemCount">3</strong><span>Active Links</span></div>
+        <div><strong>CS</strong><span>Official Use</span></div>
+      </aside>
+    </section>
+  </header>
+
+  <main>
+    <section class="toolbar">
+      <div>
+        <p class="eyebrow">Database</p>
+        <h2 id="systems">Cognitus Systems</h2>
+      </div>
+      <input id="systemSearch" type="search" placeholder="Search systems...">
+    </section>
+
+    <section class="grid" id="systemGrid"></section>
+    <section class="empty" id="emptyState" hidden>No systems found.</section>
+
+    <section id="guide" class="guide">
+      <p class="eyebrow">Staff Guide</p>
+      <h2>How this database should be used</h2>
+      <div class="guide-grid">
+        <article><h3>Use official links</h3><p>Staff should access Cognitus portals through approved Cognitus links.</p></article>
+        <article><h3>Keep records organized</h3><p>Use the right portal for the right task so information stays easy to find.</p></article>
+        <article><h3>Report broken links</h3><p>If a system link stops working, notify an Owner, Executive, or authorized administrator.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Cognitus Solutions.</p>
+    <a href="#top">Back to top</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
