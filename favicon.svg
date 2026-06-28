@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cognitus brain favicon">
+  <rect width="64" height="64" rx="14" fill="#050505"/>
+  <path d="M31 12c-4.9 0-9 3.8-9.4 8.6-5 .8-8.8 5.1-8.8 10.3 0 1.1.2 2.2.5 3.2-3.2 1.8-5.3 5.2-5.3 9.1C8 49 12.7 53.7 18.5 53.7c2 0 3.9-.6 5.5-1.6 1.8 1.8 4.3 2.9 7 2.9V12Z" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21.6 20.6c3.3 0 6 2.7 6 6v4.6M14.2 34.1c2.2-1.4 5.5-1.5 8.2-.4M24 45.2c-2.2-1.2-4.8-.7-6.3 1.2M27.4 36.9c-2.6-.2-5-1.7-6.3-4" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 12c4.9 0 9 3.8 9.4 8.6 5 .8 8.8 5.1 8.8 10.3 0 1.1-.2 2.2-.5 3.2 3.2 1.8 5.3 5.2 5.3 9.1 0 5.8-4.7 10.5-10.5 10.5-2 0-3.9-.6-5.5-1.6-1.8 1.8-4.3 2.9-7 2.9V12Z" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 31h7l5-5M34 39h10l5 5M34 23h5v-5M39 18h6M46 26h5M49 44h4" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="47" cy="26" r="2.5" fill="#050505" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="52" cy="44" r="2.5" fill="#050505" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="45" cy="18" r="2.5" fill="#050505" stroke="#ffffff" stroke-width="3"/>
+</svg>
