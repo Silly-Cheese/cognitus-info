@@ -1,0 +1,6 @@
+exclude:
+  - README.md
+  - favicon.svg
+  - index.html
+  - script.js
+  - style.css
